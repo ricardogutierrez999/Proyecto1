@@ -1,0 +1,10 @@
+#include<stdio.h>
+
+int main(){
+  printf("\nHola Mundo");
+  printf("\nRicardoGutierrezHernandez\n");
+  printf("\nEste es mi segundo codigo\n");
+  printf("\nProgramar es facil\n");
+  printf("\nVoy a compartir con mi compañero el codigo\n")
+  return 0;
+}
